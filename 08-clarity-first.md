@@ -10,7 +10,7 @@
 
 > Writing is thinking. To write well is to think clearly. That’s why it’s so hard.
 >
-> —[David McCullough](https://en.wikipedia.org/wiki/David_McCullough), author and lecturer
+> —[David McCullough](https://en.wikipedia.org/wiki/David_McCullough), author, narrator, and lecturer
 
 Author a single-page document that explores your thesis focusing on content and clarity first with the following sections:
 
@@ -29,7 +29,7 @@ Author a single-page document that explores your thesis focusing on content and 
 
 #### Voice & Tone
 
-Academic voice avoids informal language and utilizes an authoritative tone. It’s not personal, but remember to write for humans; keep it short and concise using plain, accessible English.
+Academic voice avoids informal language and utilizes an authoritative tone. It’s not personal, but remember to write for humans; keep it concise using plain, accessible English.
 
 - See [Academic Voice](#academic-voice) examples.
 
