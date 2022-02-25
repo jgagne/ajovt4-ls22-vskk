@@ -118,7 +118,6 @@ A brief description or summary of your thesis project in **75 words** or fewer.
 ## Readings
 
 - [Writing and Developing a Thesis](https://goinswriter.com/writing-a-thesis-2/)
-- [Clarify First: Manifesto](https://clarity-first.com/manifesto/)
 - [Cognitive Maps, Mind Maps, and Concept Maps: Definitions](https://www.nngroup.com/articles/cognitive-mind-concept/)
 
 ## Resources
