@@ -79,7 +79,7 @@ A brief description or summary of your thesis project in **75 words** or fewer.
 <!-- Disclosure widget, HTML in Markdown -->
 
 <details>
-  <summary>Mind Map</summary>
+  <summary><b>Mind Map</b></summary>
   <img alt="Gray box placeholder image, for position only." src="./img/thesis-mind-map.png">
 </details>
 
