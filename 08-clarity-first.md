@@ -70,11 +70,11 @@ Use the same repo as the previous semester and continue the order (and naming co
 
 # Title (of thesis project)
 
-<!-- Please limit the title to 70 characters or fewer. -->
+<!-- Please limit the title to **70 characters** or fewer. -->
 
 ## Summary
 
-A brief description or summary of your thesis project; aim for 30 to 60 words (120 to 240 characters).
+A brief description or summary of your thesis project in **75 words** or fewer.
 
 <!-- Disclosure widget, HTML in Markdown -->
 
@@ -86,7 +86,7 @@ A brief description or summary of your thesis project; aim for 30 to 60 words (1
 ## Keywords
 
 - **Keyword**
-  - Optional definition/description; aim for a single-sentence in 120 characters or fewer.
+  - Optional definition/description in **125 characters** or fewer.
 - **Keyword**
   - …
 - **Keyword**
@@ -98,7 +98,7 @@ A brief description or summary of your thesis project; aim for 30 to 60 words (1
 
 ## Key Points
 
-<!-- Key points; 30 to 60 words (120 to 240 characters) each. -->
+<!-- Key points; aim for **30–60 words** each. -->
 
 1. Background/importance of topic:
 2. Purpose/hypothesis (thesis or statement of problem):
