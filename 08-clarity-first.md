@@ -132,5 +132,6 @@ A brief description or summary of your thesis project in **75 words** or fewer.
 
 Use a familiar tool or something new.
 
-- [Include diagrams in your Markdown files with Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
 - [Whimsical](https://whimsical.com)
+- [Include diagrams in your Markdown files with Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
+
