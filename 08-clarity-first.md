@@ -75,6 +75,7 @@ Use the same repo as the previous semester and continue the order (and naming co
 - [Keywords](#keywords)
 - [Key Points](#key-points)
 - [References](#references)
+- [Inspiration](#inspiration)
 - [Warm-Up](#warm-up)
 
 # Title (of thesis project)
@@ -117,11 +118,15 @@ A brief description or summary of your thesis project in **75 words** or fewer.
 
 ## References
 
-<!-- Consider reference style for textual works, data sets, and audiovisual and online media. -->
+<!-- Add reference list. See Reference List Style -->
 
-- [Writing and Developing a Thesis](https://goinswriter.com/writing-a-thesis-2/)
 - …
 - …
+- …
+
+## Inspiration
+
+<!-- Optional section, see https://evajunkova.github.io/english-for-designers/08-clarity-first/#inspiration -->
 
 ## Warm-Up
 
@@ -146,6 +151,10 @@ PAR statement:
 - [Finding Your Academic Voice](https://owl.excelsior.edu/writing-process/finding-your-voice/finding-your-voice-academic-voice/)
 - [Overview of Academic Voice](https://writingcenter.uagc.edu/academic-voice)
 - [Tips on Academic Voice](https://owl.excelsior.edu/writing-process/finding-your-voice/finding-your-voice-tips-on-academic-voice/)
+
+### Reference List Style
+
+- [APA: Formatting Your References List](https://writingcenter.uagc.edu/format-your-reference-list)
 
 ### Mind Map
 
