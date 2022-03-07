@@ -1,6 +1,7 @@
 # Clarity First
 
 - [Brief](#brief)
+- [Warm-Up](#warm-up)
 - [Details](#details)
 - [Handoff](#handoff)
 - [Readings](#readings)
@@ -20,6 +21,13 @@ Author a single-page document that explores your thesis focusing on content and 
 - Keywords
 - Key Points
 - References
+
+### Warm-Up
+
+Get started with the PAR (Problem, Action, Result) method.
+
+- See [PAR](#par) resources.
+- See also [Format](#format) for Warm-Up section.
 
 ### Details
 
@@ -67,6 +75,7 @@ Use the same repo as the previous semester and continue the order (and naming co
 - [Keywords](#keywords)
 - [Key Points](#key-points)
 - [References](#references)
+- [Warm-Up](#warm-up)
 
 # Title (of thesis project)
 
@@ -113,6 +122,16 @@ A brief description or summary of your thesis project in **75 words** or fewer.
 - [Writing and Developing a Thesis](https://goinswriter.com/writing-a-thesis-2/)
 - …
 - …
+
+## Warm-Up
+
+In class exercise: Explore key points with the PAR method, then write a statement.
+
+1. Problem:
+2. Action:
+3. Result:
+
+PAR statement:
 ```
 
 ## Readings
@@ -135,3 +154,9 @@ Use a familiar tool or something new.
 - [Whimsical](https://whimsical.com)
 - [Include diagrams in your Markdown files with Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
 
+### PAR
+
+Problem, Action, Result method.
+
+- [Crafting Your Story](https://thegymnasium.com/courses/take5/crafting-your-story)
+- [PAR Statements - The best weapon in your arsenal!](http://resumefactor.blogspot.com/2011/09/par-statements-best-weapon-in-your.html)
