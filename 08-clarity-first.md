@@ -136,6 +136,8 @@ In class exercise: Explore key points with the PAR method, then write a statemen
 2. Action:
 3. Result:
 
+<!-- Put it all together in a statement -->
+
 PAR statement:
 ```
 
