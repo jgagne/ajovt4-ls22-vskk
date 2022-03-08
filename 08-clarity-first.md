@@ -21,6 +21,9 @@ Author a single-page document that explores your thesis focusing on content and 
 - Keywords
 - Key Points
 - References
+- Inspiration (optional)
+- Warm-Up (PAR exercise)
+
 
 ### Warm-Up
 
