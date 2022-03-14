@@ -45,7 +45,7 @@ A brief statement summarizing your thesis, based on language from PAR statement 
 
 ## Keywords
 
-<!-- A comma separated list of indentifable and searchable terms. -->
+<!-- A comma separated list of identifiable and searchable terms. -->
 
 query, to come, TK
 
