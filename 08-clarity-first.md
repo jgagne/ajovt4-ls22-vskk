@@ -24,7 +24,6 @@ Author a single-page document that explores your thesis focusing on content and 
 - Inspiration (optional)
 - Warm-Up (PAR exercise)
 
-
 ### Warm-Up
 
 Get started with the PAR (Problem, Action, Result) method.
