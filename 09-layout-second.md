@@ -1,7 +1,6 @@
 # Layout Second
 
 - [Brief](#brief)
-- [Details](#details)
 - [Handoff](#handoff)
 - [Readings](#readings)
 - [Resources](#resources)
