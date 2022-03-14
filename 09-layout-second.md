@@ -15,7 +15,7 @@
 >
 > —[Philip Crosby](https://en.wikipedia.org/wiki/Philip_B._Crosby),  businessman and author
 
-Layout a short pitch deck, presenting the key points of your thesis using any presentation format (Figma, Keynote, Pitch, etc.).
+Layout a short pitch deck, presenting the key points of your thesis using any presentation format/tool (Markdown, Figma, Keynote, etc.) of your choice.
 
 ## Handoff
 
@@ -43,11 +43,17 @@ Use the same repo as the previous semester and continue the order (and naming co
 
 A brief statement summarizing your thesis, based on language from PAR statement and key points from Clarity First in **75 words** or fewer. Remember to use academic voice.
 
-### Keywords
+## Keywords
 
 <!-- A comma separated list of indentifable and searchable terms. -->
 
 query, to come, TK
+
+## Presentation
+
+<!-- Work-in-progress thesis presetation. -->
+
+<-- Add a link to your presentation or add presentation content in Markdown here. -->
 ```
 
 ## Readings
