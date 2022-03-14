@@ -16,7 +16,7 @@
 >
 > —[Philip Crosby](https://en.wikipedia.org/wiki/Philip_B._Crosby),  businessman and author
 
-Layout a short pitch deck, presenting the key points of your thesis using any presentation format (Figma, Keynote, etc.).
+Layout a short pitch deck, presenting the key points of your thesis using any presentation format (Figma, Keynote, Pitch, etc.).
 
 ## Handoff
 
@@ -46,7 +46,7 @@ A brief statement summarizing your thesis, based on language from PAR statement 
 
 ### Keywords
 
-<!--A comma separated list of indentifable and searchable terms. -->
+<!-- A comma separated list of indentifable and searchable terms. -->
 
 query, to come, TK
 ```
@@ -64,11 +64,15 @@ query, to come, TK
 - [Overview of Academic Voice](https://writingcenter.uagc.edu/academic-voice)
 - [Tips on Academic Voice](https://owl.excelsior.edu/writing-process/finding-your-voice/finding-your-voice-tips-on-academic-voice/)
 
-### Presentation Tips
-
-- [How to Present: 5 Steps to Success](https://www.duarte.com/wp-content/uploads/Duarte-How-to-Present-5-Steps-to-Success.pdf)
-- [Presentation Systems](https://www.duarte.com/wp-content/uploads/Duarte-Presentation-Systems.pdf)
-
 ### Copyediting Terms
 
 - [What the TK? The MB Media Glossary](https://www.mediabistro.com/go-freelance/business-basics/tk-mb-media-glossary/)
+
+### Presentation Tips
+
+- [How to Present: 5 Steps to Success](https://www.duarte.com/wp-content/uploads/Duarte-How-to-Present-5-Steps-to-Success.pdf)
+- [4 tips to design better presentations](https://pitch.com/blog/presentation-design-tips)
+
+### Presentation Tools
+
+- [Pitch](https://pitch.com) — Stunning presentations. Made together.
