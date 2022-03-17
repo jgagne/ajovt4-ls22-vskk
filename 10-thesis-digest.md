@@ -112,7 +112,7 @@ designer, social networks.
 >
 > –Barbora Dostálová, Graphic Design
 
-- [Working with Urban Informality: A Postcolonial Critique of Planning Theory based on Lessons from the Caño Martín Peña Special Planning District](https://www.gsd.harvard.edu/project/working-with-urban-informality-a-postcolonial-critique-of-planning-theory-based-on-lessons-from-the-cano-martin-pena-special-planning-district/) by Samantha Saona
+- See also [Working with Urban Informality: A Postcolonial Critique of Planning Theory based on Lessons from the Caño Martín Peña Special Planning District](https://www.gsd.harvard.edu/project/working-with-urban-informality-a-postcolonial-critique-of-planning-theory-based-on-lessons-from-the-cano-martin-pena-special-planning-district/) by Samantha Saona
 
 
 ### Main Text
