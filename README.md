@@ -1,4 +1,4 @@
-`AJOVT3`
+`AJOVT4`
 
 # Applied English for Graphic and Media Designers
 ## (English for Designers)
@@ -239,7 +239,11 @@ Helpful course related links.
 
 ### Week 1
 
+- TK
+
 ### Week 2
+
+- TK
 
 ### Week 3
 
@@ -255,15 +259,31 @@ Helpful course related links.
 
 ### Week 5
 
+- Workshop:
+  - [Academic Abstract Outline Wizard](https://designincubation.com/abstract-wizard/): Motivation/Problem/Opportunity and Thesis statement development
+- Homework:
+  - [Layout Second](08-layout-second.md): Visual presentation of [Clarity First](08-clarity-first.md) content
+  - [Thesis Digest](10-thesis-digest.md): Put it all together
+
 ### Week 6
+
+- TBA
 
 ### Week 7
 
+- TBD
+
 ### Week 8
+
+- TBD
 
 ### Week 9
 
+- TBD
+
 ### Week 10
+
+- TBD
 
 
 ## Coursework
