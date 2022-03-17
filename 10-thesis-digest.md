@@ -15,7 +15,7 @@
 
 Revisit and review language developed for [Clarity First](08-clarify-first.md) and write a thesis digest with a well-formed abstract, main text, references, and images. Use the PAR and/or PEEL methods for structure, academic voice, and accessible language.
 
-- See [readings](#readings) and [resources](#resources) for guidance, specifically [Digest Writing Guides](#digest-writing-guides).
+- See [Readings](#readings) and [Resources](#resources) for guidance, specifically [Digest Writing Guides](#digest-writing-guides).
 
 ## Warm-Up
 
@@ -120,8 +120,6 @@ designer, social networks.
 
 
 ### Main Text
-
-Digests should be approximately 500 words.
 
 Consider these four sections:
 
