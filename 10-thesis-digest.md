@@ -11,7 +11,7 @@
 
 > To write or even speak English is not a science but an art. There are no reliable words. Whoever writes English is involved in a struggle that never lets up even for a sentence. He is struggling against vagueness, against obscurity, against the lure of the decorative adjective, against the encroachment of Latin and Greek, and, above all, against the worn-out phrases and dead metaphors with which the language is cluttered up.
 >
->―[George Orwell](https://en.wikipedia.org/wiki/George_Orwell), writer
+>―[George Orwell](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/), author and critic
 
 Revisit and review language developed for [Clarity First](08-clarify-first.md) and write a thesis digest with a well-formed abstract, main text, references, and images. Use the PAR and/or PEEL methods for structure, academic voice, and accessible language.
 
