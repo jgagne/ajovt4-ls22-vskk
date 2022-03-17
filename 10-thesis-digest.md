@@ -162,7 +162,7 @@ Data Availability Statement: There is no data archived.
 
 <!-- See https://www.cambridge.org/core/services/authors/open-data/data-availability-statements -->
 
-Word count: <!-- Everything below, including headings, image captions, etc., except references. -->
+Word count: <!-- Digests should be approximately 500 words. Everything below, including headings, image captions, etc., except references. -->
 
 - - -
 
@@ -180,8 +180,6 @@ findings. Less than 75 words. -->
 ## Main Text
 
 <!--
-Digests should be approximately 500 words.
-
 Consider these four sections:
 
 1. Introduction that puts the research in a broader context and provides added value through citations not included in the original article.
