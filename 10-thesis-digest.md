@@ -134,7 +134,7 @@ Consider these four sections:
 
 - Create a project folder (repo) with a Markdown file and an image folder/file(s).
   - For example:
-    - `10-abstract-digest`
+    - `10-thesis-digest`
       - `index.md`
       -  `img`
           - `*.png`
