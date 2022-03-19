@@ -168,7 +168,7 @@ Word count: <!-- Digests should be approximately 500 words. Everything below, in
 
 - - -
 
-# Digest:
+# Digest: <!-- Full title from above -->
 
 ## Abstract
 
