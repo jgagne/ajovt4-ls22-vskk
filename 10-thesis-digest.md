@@ -75,7 +75,7 @@ A standard pattern you may want to avoid: This thesis consists of a theoretical 
 
 #### Vague
 
-Is it really saying something? The motivation is there, but it is missing evidence and a conclusion. And what’s the thesis?
+Is it really saying something, anything? The motivation is there, but it is missing evidence and a conclusion. And what’s the thesis?
 
 > **Abstract**
 >
