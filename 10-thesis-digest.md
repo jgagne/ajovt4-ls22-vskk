@@ -196,7 +196,7 @@ Consider these four sections:
 
 ## Images
 
-<!-- Original figure(s) and caption(s) designed by digest author. -->
+<!-- Original figure(s) and caption(s) designed by digest author. And remeber to optimize images. -->
 ```
 
 ## Readings
