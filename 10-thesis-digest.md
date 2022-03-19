@@ -35,13 +35,13 @@ Answer these two writing prompts to differentiate between your Motivation/Proble
 
 > This topic, this thesis, this paper, includes, focuses, deals, explores, etc.
 
-Options. Choose your words and phrases, or terms, with care, meaning, with serious consideration. Use of academic voice makes writing with style challenging.
+Options. Choose your words and phrases or terms with care, meaning, with serious consideration. The use of academic voice makes writing with style a challenge.
 
 > The main goal, the aim, of this thesis is to evaluate, etc.
 
 Replace personal with enthusiasm and knowledge of the subject matter, and entice us with a meaningful thesis and hints of valuable research.
 
-Find an abstract that is relevant and inspirational, topic and grammar-wise, and use as a guide to get started.
+Find an abstract that is relevant and inspirational, topic and grammar-wise, and use it as a guide to get started.
 
 For example:
 
@@ -61,7 +61,7 @@ Example abstracts with keywords:
 
 #### Basic
 
-A common template with a theoretical part, a practical part, etc. It’s basic, not interesting, and doesn’t include any enthusiasm or style, but it gets the job done, if that’s what your thesis is about. Although, the main goal is to write better than that.
+A standard pattern you may want to avoid: This thesis consists of a theoretical part, a practical part, etc. It is adequate but not compelling and does not include any enthusiasm or style, but it gets the job done if that is what your thesis is all about. Although, the main goal is to write better than that.
 
 > **Abstract:**
 >
@@ -75,7 +75,7 @@ A common template with a theoretical part, a practical part, etc. It’s basic, 
 
 #### Vague
 
-Really saying something? The motivation is there, but is missing evidence and a conclusion. And what’s the thesis?
+Is it really saying something? The motivation is there, but it is missing evidence and a conclusion. And what’s the thesis?
 
 > **Abstract**
 >
@@ -92,7 +92,7 @@ development.
 
 #### Better
 
-Excellent content and style, with the second paragraph developing into the expanded digest format, but needs a revision for better academic voice (sans first personal pronoun, I, and determiner, My, and other informal language). Yet, it has potential with some edits.
+Excellent content and style, with the second paragraph developing into the expanded digest format, but needs a revision for better academic voice (sans first personal pronoun, I, and determiner, My, and other informal language instances). Yet, it has potential with some edits.
 
 > **Abstract**
 >
