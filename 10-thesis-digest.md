@@ -229,6 +229,7 @@ Consider these four sections:
 ### Writing Tips
 
 - [Writing a Thesis Statement](https://writingcenter.uagc.edu/writing-a-thesis)
+- [The Ultimate Guide to Writing a Thesis Statement](https://www.grammarly.com/blog/thesis-statement/)
 - [Content Buddy](https://adactio.com/journal/17906) by Jeremy Keith
   - [Content Buddy](https://adactio.com/journal/10654) (from 2016)
 
