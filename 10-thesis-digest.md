@@ -13,7 +13,7 @@
 >
 >―[George Orwell](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/), author and critic
 
-Revisit and review language developed for [Clarity First](08-clarify-first.md) and write a thesis digest with a well-formed abstract, main text, references, and images. Use the PAR and/or PEEL methods for structure, academic voice, and accessible language.
+Revisit and review language developed for [Clarity First](08-clarify-first.md) and write a thesis digest with an expanded and well-formed abstract and main text, references, and images. Use the PAR/PEEL methods for structure, academic voice, and accessible language.
 
 - See [Readings](#readings) and [Resources](#resources) for guidance, specifically [Digest Writing Guides](#digest-writing-guides).
 
@@ -61,7 +61,7 @@ Example abstracts with keywords:
 
 #### Basic
 
-A standard pattern you may want to avoid: This thesis consists of a theoretical part, a practical part, etc. It is adequate but not compelling and does not include any enthusiasm or style, but it gets the job done if that is what your thesis is all about. Although, the main goal is to write better than that.
+A standard pattern you may want to avoid: This thesis consists of a theoretical part, a practical part, etc. It is adequate but not compelling and does not include any enthusiasm or style. It gets the job done if that is what your thesis is all about. Although, the main goal is to write better than that.
 
 > **Abstract:**
 >
