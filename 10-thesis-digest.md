@@ -3,6 +3,9 @@
 - [Brief](#brief)
 - [Warm-Up](#warm-up)
 - [Details](#details)
+  - [Abstract](#abstract)
+    - [Types](#types)
+    - [Examples](#examples)
 - [Handoff](#handoff)
 - [Readings](#readings)
 - [Resources](#resources)
@@ -57,7 +60,27 @@ Remember to use academic voice and use a [content buddy](#writing-tips) like Hem
 
 ### Abstract
 
-Example abstracts with keywords:
+Write either a descriptive or informative abstract based on your topic.
+
+#### Types
+
+> **Critical Abstract:**
+> A critical abstract provides, in addition to describing main findings and information, a judgment or comment about the study’s validity, reliability, or completeness. The researcher evaluates the paper and often compares it with other works on the same subject. Critical abstracts are generally 400-500 words in length due to the additional interpretive commentary. These types of abstracts are used infrequently.
+>
+> **Descriptive Abstract:**
+> A descriptive abstract indicates the type of information found in the work. It makes no judgments about the work, nor does it provide results or conclusions of the research. It does incorporate key words found in the text and may include the purpose, methods, and scope of the research. Essentially, the descriptive abstract only describes the work being summarized. Some researchers consider it an outline of the work, rather than a summary. Descriptive abstracts are usually very short, 100 words or less.
+>
+> **Informative Abstract:**
+> The majority of abstracts are informative. While they still do not critique or evaluate a work, they do more than describe it. A good informative abstract acts as a surrogate for the work itself. That is, the researcher presents and explains all the main arguments and the important results and evidence in the paper. An informative abstract includes the information that can be found in a descriptive abstract [purpose, methods, scope] but it also includes the results and conclusions of the research and the recommendations of the author. The length varies according to discipline, but an informative abstract is usually no more than 300 words in length.
+>
+> **Highlight Abstract:**
+> A highlight abstract is specifically written to attract the reader’s attention to the study. No pretense is made of there being either a balanced or complete picture of the paper and, in fact, incomplete and leading remarks may be used to spark the reader’s interest. In that a highlight abstract cannot stand independent of its associated article, it is not a true abstract and, therefore, rarely used in academic writing.
+>
+> —[Types of Abstracts](https://libguides.usc.edu/writingguide/abstract)
+
+### Examples
+
+From basic and vague, to almost there — a sampling of abstracts.
 
 #### Basic
 
@@ -172,8 +195,7 @@ Word count: <!-- Digests should be approximately 500 words. Everything below, in
 
 ## Abstract
 
-<!-- Abstract that introduces the question being investigated by the study and briefly summarizes the
-findings. Less than 75 words. -->
+<!-- A descriptive (100 words or less) or an informative abstract (300 words or less; aim for half, around 150 words, but write first, edit second.-->
 
 ## Keywords
 
