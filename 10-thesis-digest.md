@@ -6,6 +6,7 @@
   - [Abstract](#abstract)
     - [Types](#types)
     - [Examples](#examples)
+  - [Main Text](#main-text)
 - [Handoff](#handoff)
 - [Readings](#readings)
 - [Resources](#resources)
