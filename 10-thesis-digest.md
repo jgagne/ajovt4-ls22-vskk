@@ -196,7 +196,7 @@ Word count: <!-- Digests should be approximately 500 words. Everything below, in
 
 ## Abstract
 
-<!-- A descriptive (100 words or less) or an informative abstract (300 words or less; aim for half, around 150 words, but write first, edit second.-->
+<!-- A descriptive (100 words or less) or an informative abstract (300 words or less; aim for half, around 150 words or less, but write first, edit second.-->
 
 ## Keywords
 
