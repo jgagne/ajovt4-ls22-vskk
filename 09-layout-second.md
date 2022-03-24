@@ -37,11 +37,11 @@ Use the same repo as the previous semester and continue the order (and naming co
 ```
 # Hed (Working title of thesis)
 
-<!-- Please limit the title to **70 characters** or fewer. -->
+<!-- Please limit the title to around **100–125 characters** or less (think — alt text). -->
 
 ## Abstract
 
-A brief statement summarizing your thesis, based on language from PAR statement and key points from Clarity First in **75 words** or fewer. Remember to use academic voice.
+A brief statement summarizing your thesis, based on language from PAR statement and key points from Clarity First in about **150 words** (expanded from 100 words) or less. Remember to use academic voice.
 
 ## Keywords
 

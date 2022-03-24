@@ -82,11 +82,11 @@ Use the same repo as the previous semester and continue the order (and naming co
 
 # Title (of thesis project)
 
-<!-- Please limit the title to **70 characters** or fewer. -->
+<!-- Please limit the title to around **100–125 characters** or less (think — alt text). -->
 
 ## Summary
 
-A brief description or summary of your thesis project in **75 words** or fewer.
+A brief description or summary of your thesis project in about **100 words** or less.
 
 <!-- Disclosure widget, HTML in Markdown -->
 

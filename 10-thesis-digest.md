@@ -168,7 +168,7 @@ Consider these four sections:
 - `index.md`
 
 ```
-# Title: Digest: …
+# Title: Digest: <!-- Please limit the title to around **100–125 characters** or less (think — alt text). -->-->
 
 # Running Title: …
 
