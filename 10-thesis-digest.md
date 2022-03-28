@@ -200,7 +200,7 @@ Word count: <!-- Digests should be approximately 500 words. Everything below, in
 
 ## Keywords
 
-<!-- comma separated terms, all in lowercase letters, and arranged alphabetically  -->
+<!-- comma separated terms, all in lowercase letters (except for proper nouns), and arranged alphabetically  -->
 
 ## Main Text
 
