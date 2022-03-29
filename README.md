@@ -267,23 +267,35 @@ Helpful course related links.
 
 ### Week 6
 
-- TBA
+- Homework:
+  - [Layout Second](08-layout-second.md): Visual presentation of [Clarity First](08-clarity-first.md) content
+  - [Thesis Digest](10-thesis-digest.md): Put it all together
 
 ### Week 7
 
-- TBD
+- Discussion:
+  - [Thesis Digest](10-thesis-digest.md)
+-  Final (Thesis-Related):
+    - Pitch:
+      - [AT&T Archives: Saul Bass Pitch Video for Bell System Logo Redesign ](https://www.youtube.com/watch?v=xKu2de0yCJI)
+    - Article:
+      - [creative process lessons from ‘get back’](https://bradfrost.com/blog/post/creative-process-lessons-from-get-back/)
+    - Website:
+      - [TK]()
+- Watch (Before March 30):
+  - [Helvetica](https://www.ohyouprettythings.com/helvetica)
 
 ### Week 8
 
-- TBD
+- Workshop: See above Final (thesis-related) content
 
 ### Week 9
 
-- TBD
+- Final Presentations
 
 ### Week 10
 
-- TBD
+- Final Presentations
 
 
 ## Coursework
