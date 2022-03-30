@@ -275,14 +275,15 @@ Helpful course related links.
 
 - Discussion:
   - [Thesis Digest](10-thesis-digest.md)
--  Final (Thesis-Related):
+-  Final (Thesis-Related), choose a format for content (can be combined):
     - Pitch:
       - [AT&T Archives: Saul Bass Pitch Video for Bell System Logo Redesign ](https://www.youtube.com/watch?v=xKu2de0yCJI)
     - Article:
       - [creative process lessons from ‘get back’](https://bradfrost.com/blog/post/creative-process-lessons-from-get-back/)
     - Website:
-      - [TK]()
-- Watch (Before March 30):
+      - [lugnah by Min Jee (Brenda) Cho](https://www.brendaminjeecho.com/work/lugnah)
+        - See also [Pratt BFA Communications Design Thesis 2021](http://bfacomdthesis.pratt.edu)
+- Watch (Free to public before March 31):
   - [Helvetica](https://www.ohyouprettythings.com/helvetica)
 
 ### Week 8
