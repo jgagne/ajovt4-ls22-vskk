@@ -7,6 +7,7 @@
     - [Types](#types)
     - [Examples](#examples)
   - [Main Text](#main-text)
+  - [Academic Voice](#academic-voice)
 - [Handoff](#handoff)
 - [Readings](#readings)
 - [Resources](#resources)
@@ -116,7 +117,7 @@ development.
 
 #### Better
 
-Excellent content and style, with the second paragraph developing into the expanded digest format, but needs a revision for better academic voice (sans first personal pronoun, I, and determiner, My, and other informal language instances). Yet, it has potential with some edits.
+Excellent content and style, with the second paragraph developing into the expanded digest format, but needs a revision for better academic voice (sans first personal pronoun, I, determiner, My, and other instances of informal/personal language.). Yet, it has potential with some edits.
 
 > **Abstract**
 >
@@ -145,12 +146,31 @@ designer, social networks.
 
 ### Main Text
 
-Consider these four sections:
+Consider these sections, and chunk them into separate paragraphs for readability. Note that a single sentence can represent a paragraph. See, [What makes writing more readable?](https://pudding.cool/2022/02/plain/) for guidance.
 
 1. Introduction that puts the research in a broader context and provides added value through citations not included in the original article.
 2. Summary of original article’s methods and results.
 3. Further discussion on significance of findings.
 4. Discussion connecting this work to other studies – provides added value through citations not included in original study.
+
+### Academic Voice
+
+A summary of style rules from [Academic Voice Tips](#academic-voice-tips) resources.
+
+1. Avoid using the first personal pronoun, I, determiner, My, and other instances of informal/personal language.
+2. Avoid using casual language, such as:
+    - Avoid contractions like “can’t” or “don’t.”
+    - Avoid addressing the reader casually with the word “you.”
+    - Avoid storytelling indicators like “okay,” “well,” “then,” “next,” and “after that.”
+    - Avoid foul language or off-color humor.
+    - Avoid metaphors, jargon, and filler words.
+3. Avoid using vague or subjective language. Instead, use precise words by stating specifically what you mean.
+    - Using specific vocabulary means using the language that is specific to your field of study. For example, if you are studying graphic design, it is appropriate for you to use the terms that graphic designers use.
+4. Use concise language, for example:
+    - Original: At the present time, a total of four researchers summarized briefly the results of the two different and varying groups’ tests.
+    - Edit: At present, a total of four researchers summarized the results of the two different and varying groups’ tests.
+    - Revision: Four researchers summarized the results of the two groups’ tests.
+5. Avoid using abbreviations when possible, and spell them out in most instances. Yet, when an abbreviation is an established identity such as C&A, spell out the first instance of the abbreviation (acronym), in optional paratheses, define it. For example, The Dutch textile company Clemens and August, better known as C&A, and online as c-and-a.com, began business in 1841.
 
 ## Handoff
 
@@ -168,9 +188,9 @@ Consider these four sections:
 - `index.md`
 
 ```
-# Title: Digest: <!-- Please limit the title to around **100–125 characters** or less (think — alt text). -->-->
+Title: Digest: <!-- Please limit the title to around **100–125 characters** or less (think — alt text). -->-->
 
-# Running Title: …
+Running Title: …
 
 <!--
 A running title is an abbreviated form of the main title, usually cited at the top of each published page or left-hand text pages.
@@ -205,12 +225,13 @@ Word count: <!-- Digests should be approximately 500 words. Everything below, in
 ## Main Text
 
 <!--
-Consider these four sections:
+Consider these sections, and chunk them into separate paragraphs for readability. Note that a single sentence can represent a paragraph. See, What makes writing more readable? https://pudding.cool/2022/02/plain/ for guidance.
 
 1. Introduction that puts the research in a broader context and provides added value through citations not included in the original article.
 2. Summary of original article’s methods and results.
 3. Further discussion on significance of findings.
 4. Discussion connecting this work to other studies – provides added value through citations not included in original study.
+
  -->
 
 ## References
@@ -229,7 +250,7 @@ Consider these four sections:
 
 ## Resources
 
-### Academic Voice
+### Academic Voice Tips
 
 - [Finding Your Academic Voice](https://owl.excelsior.edu/writing-process/finding-your-voice/finding-your-voice-academic-voice/)
 - [Overview of Academic Voice](https://writingcenter.uagc.edu/academic-voice)
