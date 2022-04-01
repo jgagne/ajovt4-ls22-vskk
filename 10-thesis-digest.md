@@ -148,10 +148,17 @@ designer, social networks.
 
 Consider these sections, and chunk them into separate paragraphs for readability. Note that a single sentence can represent a paragraph. See, [What makes writing more readable?](https://pudding.cool/2022/02/plain/) for guidance.
 
-1. Introduction that puts the research in a broader context and provides added value through citations not included in the original article.
-2. Summary of original article’s methods and results.
-3. Further discussion on significance of findings.
-4. Discussion connecting this work to other studies – provides added value through citations not included in original study.
+1. Introduction that positions the research in a broader context and provides added value through citations not included in the original article.
+2. Summary of the original article’s methods and results.
+3. Further discussion on the significance of findings.
+4. Discussion connecting this work to other studies – provides added value through citations not included in the original study.
+
+Also, consider referring and linking to figures in your main text if useful.
+
+- For example:
+> The expectation is that under harsh circumstances, population size will be reduced, and 45 individuals will die irrespective of their trait values. This will result in higher levels of genetic 46 drift in the population, increasing the chance of losing genetic variation at any locus in the 47 genome ([Figure 1](#figure-1)).
+
+- See [Format](#format) for details about figures (images and captions).
 
 ### Academic Voice
 
@@ -227,11 +234,15 @@ Word count: <!-- Digests should be approximately 500 words. Everything below, in
 <!--
 Consider these sections, and chunk them into separate paragraphs for readability. Note that a single sentence can represent a paragraph. See, What makes writing more readable? https://pudding.cool/2022/02/plain/ for guidance.
 
-1. Introduction that puts the research in a broader context and provides added value through citations not included in the original article.
-2. Summary of original article’s methods and results.
-3. Further discussion on significance of findings.
-4. Discussion connecting this work to other studies – provides added value through citations not included in original study.
+1. Introduction that positions the research in a broader context and provides added value through citations not included in the original article.
+2. Summary of the original article’s methods and results.
+3. Further discussion on the significance of findings.
+4. Discussion connecting this work to other studies – provides added value through citations not included in the original study.
 
+Also, consider referring and linking to figures in your main text if useful.
+
+- For example:
+> The expectation is that under harsh circumstances, population size will be reduced, and 45 individuals will die irrespective of their trait values. This will result in higher levels of genetic 46 drift in the population, increasing the chance of losing genetic variation at any locus in the 47 genome ([Figure 1](#figure-1)).
  -->
 
 ## References
@@ -241,6 +252,21 @@ Consider these sections, and chunk them into separate paragraphs for readability
 ## Images
 
 <!-- Original figure(s) and caption(s) designed by digest author. And remeber to optimize images. -->
+
+### Figure 1
+
+<!-- ![Alternative text for image.](img/*.png) -->
+<!-- Caption text above or below image(s) -->
+
+### Figure 2
+
+<!-- ![Alternative text for image.](img/*.png) -->
+<!-- Caption text above or below image(s) -->
+
+### Figure 3
+
+<!-- ![Alternative text for image.](img/*.png) -->
+<!-- Caption text above or below image(s) -->
 ```
 
 ## Readings
