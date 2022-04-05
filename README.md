@@ -291,12 +291,12 @@ Helpful course related links.
 - Discussion:
   - [Thesis Digest](10-thesis-digest.md)
 - Homework:
-  - [Presentation](#11-presentation.md)
+  - [Presentation](11-presentation.md)
 
 ### Week 9
 
 - Workshop:
-  - [Presentation](#11-presentation.md)
+  - [Presentation](11-presentation.md)
 
 ### Week 10
 
