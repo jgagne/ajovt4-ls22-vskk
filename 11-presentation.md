@@ -5,7 +5,8 @@ Working from thesis-related content with an informal, personal voice, choose fro
 ## Options
 
 - Pitch:
-  - [AT&T Archives: Saul Bass Pitch Video for Bell System Logo Redesign ](https://www.youtube.com/watch?v=xKu2de0yCJI)
+  - Thesis presentation [video](https://github.com/hruba/english-for-designers/blob/main/09-summary-details/thesis-summary-details.md) (at the end) by Kateřina Hrubá (from 2021)
+  - If you’re doing a redesign, designing a new product, etc. — pitch it:[AT&T Archives: Saul Bass Pitch Video for Bell System Logo Redesign](https://www.youtube.com/watch?v=xKu2de0yCJI)
   - Related:
     - [I would like to be paid like a plumber: Pitching Nirvana](https://news.lettersofnote.com/p/nirvana)
 - Article:
