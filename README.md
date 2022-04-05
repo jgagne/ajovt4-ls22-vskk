@@ -288,11 +288,15 @@ Helpful course related links.
 
 ### Week 8
 
-- Workshop: See above Final (thesis-related) content
+- Discussion:
+  - [Thesis Digest](10-thesis-digest.md)
+- Homework:
+  - [Presentation](#11-presentation.md)
 
 ### Week 9
 
-- Final Presentations
+- Workshop:
+  - [Presentation](#11-presentation.md)
 
 ### Week 10
 
