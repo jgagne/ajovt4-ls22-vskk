@@ -10,13 +10,13 @@ Working from thesis-related content with an informal, personal voice, choose fro
     - [AT&T Archives: Saul Bass Pitch Video for Bell System Logo Redesign](https://www.youtube.com/watch?v=xKu2de0yCJI)
   - Related:
     - [I would like to be paid like a plumber: Pitching Nirvana](https://news.lettersofnote.com/p/nirvana)
+- **Website**
+  - Thesis case study: [lugnah by Min Jee (Brenda) Cho](https://www.brendaminjeecho.com/work/lugnah)
+    - See [Pratt BFA Communications Design Thesis 2021](http://bfacomdthesis.pratt.edu)
+    - See also [Storytelling](https://petrzilkovah.github.io/english-for-designers/06-storytelling/) by Hana Petržílková
 - **Article**
   - Associated content from your research, something that you learned or want to explore more:
     - [creative process lessons from ‘get back’](https://bradfrost.com/blog/post/creative-process-lessons-from-get-back/)
-- **Website**
-  - [lugnah by Min Jee (Brenda) Cho](https://www.brendaminjeecho.com/work/lugnah)
-    - See [Pratt BFA Communications Design Thesis 2021](http://bfacomdthesis.pratt.edu)
-    - See also [Storytelling](https://petrzilkovah.github.io/english-for-designers/06-storytelling/) by Hana Petržílková
 
 ## Related
 
