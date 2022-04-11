@@ -295,6 +295,8 @@ Helpful course related links.
 
 ### Week 9
 
+- Discussion:
+  - [Thesis Digest](10-thesis-digest.md)
 - Workshop:
   - [Presentation](11-presentation.md)
 
