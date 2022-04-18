@@ -233,7 +233,8 @@ Helpful course related links.
 - [Week 7](#week-7), March 29
 - [Week 8](#week-8), April 5
 - [Week 9](#week-9), April 12
-- [Week 10](#week-10), April 19
+- [Week 10](#week-10), April 19, *last class*
+- [Week 11](#week-11), April 26, *optional makeup class*
 
 **Note:** Preliminary, work in progress, schedule details are subject to change.
 
@@ -302,7 +303,11 @@ Helpful course related links.
 
 ### Week 10
 
-- Final Presentations
+- Last class and final presentations
+
+### Week 11
+
+- Optional makeup class for final presentations (and attendance)
 
 
 ## Coursework
