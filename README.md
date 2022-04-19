@@ -306,6 +306,7 @@ Helpful course related links.
 - Last class and final presentations
 - Homework:
   - [Year Review](year-review.md)
+  - Update [home page](11-presentation.md#home-page)
 
 ### Week 11
 

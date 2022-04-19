@@ -22,7 +22,7 @@ Working from thesis-related content with an informal, personal voice, choose fro
 
 ### Home Page
 
-Also, update your home page with [Thesis Digest](10-thesis-digest.md) and this [Presentation](11-presentation.md).
+Also, update your home page with [Thesis Digest](10-thesis-digest.md), this [Presentation](11-presentation.md), and [Year Review](year-review.md).
 
 #### Reminder
 
