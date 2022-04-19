@@ -304,6 +304,8 @@ Helpful course related links.
 ### Week 10
 
 - Last class and final presentations
+- Homework:
+  - [Year Review](year-review.md)
 
 ### Week 11
 
