@@ -7,7 +7,7 @@
 - [Marek Cervenka](https://black2589.github.io/en-for-designers/)
 - [Jirka Chyla](https://quidoo.github.io/english_for_designers/07-homepage/)
 - [Tereza Hrachovcová](https://hrachovcovat.github.io/english/homepage)
-- [Eva Junková](https://evajunkova.github.io/english-for-designers/07-homepage/)
+- [Eva Junková](https://evajunkova.github.io/english-for-designers/07-homepage/) `updated`
 - ~~Jakub Knezinek~~ 😶
 - [Markéta Rašínová](https://marketrasinova.github.io/english-for-designers/07-homepage/) `updated`
 - [Oliver Stančev](https://oliverstancev.github.io/english-for-designers/07-Homepage/)
