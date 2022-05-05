@@ -4,9 +4,9 @@
 ### AM
 
 - [Tereza Budská](https://tebri11.github.io/en-for-designers/07-homepage/) `updated`
-- [Marek Cervenka](https://black2589.github.io/en-for-designers/)
+- [Marek Cervenka](https://black2589.github.io/en-for-designers/) `updated`
 - [Jirka Chyla](https://quidoo.github.io/english_for_designers/07-homepage/)
-- [Tereza Hrachovcová](https://hrachovcovat.github.io/english/homepage)
+- [Tereza Hrachovcová](https://hrachovcovat.github.io/english/homepage/) `updated`
 - [Eva Junková](https://evajunkova.github.io/english-for-designers/07-homepage/) `updated`
 - ~~Jakub Knezinek~~ 😶
 - [Markéta Rašínová](https://marketrasinova.github.io/english-for-designers/07-homepage/) `updated`
