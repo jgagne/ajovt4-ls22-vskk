@@ -19,7 +19,7 @@
 
 - [Adéla Hanáková](https://adehan.github.io/english-for-designers/07-homepage/) `updated`
 - [Nicole Johnová](https://nicooljohn.github.io/english-for-designers/) `updated`
-- [Alexandra Kakushina](https://AlexandraKak.github.io/english-for-designers//07-homepage/)
+- [Alexandra Kakushina](https://AlexandraKak.github.io/english-for-designers//07-homepage/) `updated`
 - [Jakub Kula](https://jakub-kula.github.io/english-for-designers/)
 - [Hana Petržílková](https://petrzilkovah.github.io/english-for-designers/) `updated`
 - [Samuel Preisler](https://preislerdesign.github.io/english-for-designers/07-homepage/)
