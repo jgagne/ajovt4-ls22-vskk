@@ -10,7 +10,7 @@
 - [Eva Junková](https://evajunkova.github.io/english-for-designers/07-homepage/) `updated`
 - ~~Jakub Knezinek~~ 😶
 - [Markéta Rašínová](https://marketrasinova.github.io/english-for-designers/07-homepage/) `updated`
-- [Oliver Stančev](https://oliverstancev.github.io/english-for-designers/07-Homepage/)
+- [Oliver Stančev](https://oliverstancev.github.io/english-for-designers/07-Homepage/) `updated`
 - [Diana Štěpničková](https://dijajana.github.io/english-for-designers/) `updated`
 - [Pavla Veverková](https://github.com/Pavla-vev/en-for-designers/blob/main/07-homepage/index.md) `GitHub Pages URL pending`
   - Enable GitHub Pages: [Choosing a publishing source](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
