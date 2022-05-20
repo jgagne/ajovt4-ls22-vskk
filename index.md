@@ -25,7 +25,7 @@
 - [Samuel Preisler](https://preislerdesign.github.io/english-for-designers/07-homepage/)
 - [Ronald Steiniger](https://github.com/RonaldRonno/english-for-designers/blob/main/07-homepage/index.md)
   - Enable GitHub Pages: [Choosing a publishing source](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) `GitHub Pages URL pending`
-- [Martin Strolený](https://martinstroleny.github.io/english-for-designers/07-homepage/)
+- [Martin Strolený](https://martinstroleny.github.io/english-for-designers/07-homepage/) `updated`
 - [Lucie Lagertha Týčová](https://lussytea.github.io/english-for-designers/07-homepage/) (dropped) 😔
 - ~~Elizaveta Larionova~~ (dropped) 😔
 - [Elizaveta Vakalova](https://errorjpg.github.io/english-for-designers/07-homepage/) `updated`
