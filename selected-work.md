@@ -32,6 +32,5 @@ Selected student [coursework](#coursework) from 2021/22.
 
 ### Coursework
 
-- [Summer 2022](https://jgagne.github.io/ajovt4-ls22-vskk/)
-- [Winter 2021](https://jgagne.github.io/ajovt3-zs21-vskk/)
+- [Winter 2021 / Summer 2022](https://jgagne.github.io/ajovt4-ls22-vskk/)
 
